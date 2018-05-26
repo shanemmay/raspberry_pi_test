@@ -1,0 +1,17 @@
+1.
+nano file.txt 
+-creates file
+2.
+Crtl - x 
+y
+-opens save prompt
+3. 
+Enter 
+-after you save if you press Enter, nano will close
+4.
+ls -a 
+-shows you hidden files such as the git
+5. 
+ls -a .git 
+-this will show you the git
+
