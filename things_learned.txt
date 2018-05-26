@@ -14,4 +14,8 @@ ls -a
 5. 
 ls -a .git 
 -this will show you the git
-
+6.
+git log (filename)
+-will show you the commits you've made. You can then
+git checkout 034985709fj0897ruy
+-and checkout an earlier version of that file (i recommend copy & pasting)
